@@ -5,7 +5,9 @@
 - Animated selected satellite paths on a world map using D3 to improve the user friendliness.
 - Deployed the dashboard to ***Amazon Web Service(AWS Amplify)*** for demonstration. 
 ***
-#### Demo: https://starlink.d3twxg9t6isin7.amplifyapp.com/
+#### Demo: 
+![image](https://github.com/kelongchen/Starlink/blob/masterstarlink_demo.gif)
+https://starlink.d3twxg9t6isin7.amplifyapp.com/
 ***
 
 
