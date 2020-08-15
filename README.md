@@ -6,7 +6,7 @@
 - Deployed the dashboard to ***Amazon Web Service(AWS Amplify)*** for demonstration. 
 ***
 #### Demo: 
-![image](https://github.com/kelongchen/Starlink/blob/masterstarlink_demo.gif)
+![image](https://github.com/kelongchen/Starlink/blob/master/starlink_demo.gif)
 https://starlink.d3twxg9t6isin7.amplifyapp.com/
 ***
 
