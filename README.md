@@ -1,9 +1,9 @@
 # Starlink
 ## React JS based Starlink Trajectory Visualization
--Designed and developed a visualization dashboard using ***React JS*** and ***D3*** to track satellites in real-time based on geo-location.
--Built location, altitude, and duration based selector to refine satellite search.
--Animated selected satellite paths on a world map using D3 to improve the user friendliness.
--Deployed the dashboard to ***Amazon Web Service(AWS Amplify)*** for demonstration. 
+- Designed and developed a visualization dashboard using ***React JS*** and ***D3*** to track satellites in real-time based on geo-location.
+- Built location, altitude, and duration based selector to refine satellite search.
+- Animated selected satellite paths on a world map using D3 to improve the user friendliness.
+- Deployed the dashboard to ***Amazon Web Service(AWS Amplify)*** for demonstration. 
 ***
 #### Demo: https://starlink.d3twxg9t6isin7.amplifyapp.com/
 ***
